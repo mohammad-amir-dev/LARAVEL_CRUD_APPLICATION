@@ -1,5 +1,10 @@
-🚀 Laravel CRUD Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eed6466d-c535-43f2-949f-3cce19edcafc" />🚀 Laravel CRUD Project
 <img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/1d1ec9ae-48b4-487f-a6e0-dd906bc3bad5" />
+
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/65dd4767-b1ee-48b6-b4be-489341de5224" />
+
+
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/aafd4c9d-b8da-428f-9f19-71bf8243eb1f" />
 
 
 
