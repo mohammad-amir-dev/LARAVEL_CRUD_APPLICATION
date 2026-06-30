@@ -1,3 +1,41 @@
+🚀 Laravel CRUD Project
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/1d1ec9ae-48b4-487f-a6e0-dd906bc3bad5" />
+
+
+
+
+
+
+
+
+This project is a Product Management System built using Laravel and MySQL. It allows users to create, view, update, and delete products along with image upload functionality.
+
+Features:
+✅ Create Product
+✅ View Products
+✅ Update Product Details
+✅ Delete Products
+✅ Image Upload & Replace
+✅ Form Validation
+✅ Bootstrap 5 UI
+✅ Active/Inactive Status Management
+
+Tech Stack:
+- PHP
+- Laravel 12
+- MySQL
+- Bootstrap 5
+- Eloquent ORM
+
+This project helped me gain hands-on experience with Laravel MVC architecture, routing, controllers, validation, file handling, and database operations.
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
